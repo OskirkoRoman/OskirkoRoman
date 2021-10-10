@@ -1,0 +1,8 @@
+1. ID
+2. Summary
+3. STR
+4. Actual result
+5. Expected result
+6. Severity
+7. Attachments
+8. Environment
